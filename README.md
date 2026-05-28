@@ -1,5 +1,7 @@
 # Presence Guard
 
+To start download the WHOLE firefox extention folder and put it somewhere then continue to the Install temporarily in Firefox area below
+
 Presence Guard is a Firefox WebExtension with a toolbar toggle. When it is on, normal webpages are shielded from common client-side signals that reveal when the mouse leaves the page or when the tab becomes hidden.
 
 ## What it blocks
